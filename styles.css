@@ -1,12 +1,16 @@
+h1 {text-align: center;}
+
+
 h1 {
-    color:blue;
+    color:rgb(140, 140, 217);
+    
 }
 
 p {
-    color:blueviolet;
-    background-color: rgb(115, 115, 76);
+    color:rgb(167, 102, 227);
+
 }
 
 body {
-background-color: rgb(204, 249, 249);
+background-color: rgb(225, 246, 246);
 }
