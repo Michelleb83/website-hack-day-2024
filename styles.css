@@ -4,4 +4,9 @@ h1 {
 
 p {
     color:blueviolet;
+    background-color: rgb(115, 115, 76);
+}
+
+body {
+background-color: rgb(204, 249, 249);
 }
